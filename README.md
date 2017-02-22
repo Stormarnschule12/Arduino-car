@@ -23,10 +23,8 @@
 </h3>
 
 <p>
-<img src="Bilder/IMG_1838.JPG" alt="Bild1" style="width:500px;height:375px;border:0;">
-</p>
-<p>
-<img src="Bilder script/Transistor.PNG" alt="Bild1" style="width:372px;height:558px;border:0;">
+<img src="Bilder/IMG_1838.JPG" alt="Bild1" style="width:500px;border:0;">
+<img src="Bilder script/Transistor.PNG" alt="Bild1" style="width:372pxborder:0;">
 </p>
 
 <p>Als erstes kleines Projekt haben wir eine einfache Ampel mit einem Knopf als Auslöser programmiert und aufgebaut. Zu Beginn brennt die grüne LED und die rote ist nicht in betrieb. Bei Benutzung der Taste geht die grüne LED aus und die rote LED beginnt zu leuchten. Nach einer in dem Skript fest definierten Zeit, wird dieser Vorgang revidiert und die LED's sind in ihrem Ausgangszustand. Dieser erste Aufbau hat es uns ermöglicht die Benutzung der Arduino Software zu erlernen. Zudem haben wir die Grundlegenden Formeln für die Programmierung kennengelernt.</p>
@@ -35,8 +33,10 @@
 <a id="3">3. Der Transistor</a>
 </h3>
 
-
-
+<p>
+<img src="Bilder/IMG_1838.JPG" alt="Bild1" style="width:500px;height:375px;border:0;">
+<img src="Bilder script/Transistor.PNG" alt="Bild1" style="width:372px;height:558px;border:0;">
+</p>
 <p>Der nächste Schritt beinhaltete, dass wir beide uns mit einem Motor auseinander gesetzt haben. Die Schaltung, sowie der Skript sind nicht besonders komplex, doch es ging uns in erster Linie darum, die Funktionalität eines Motors sowie die Energieversorgung durch eine Externe Stromquelle zu erlernen. Damit die Batterie, über den Arduino gesteuert, den Motor mit Energie versorgen kann, haben wir einen Transistor verbaut. Dieser ermöglicht bei einer anliegenden Potenzialdifferenz, welche vom Arduino ausgeht, dass der Masseanschluss von der Batterie zum Motor hergestellt wird. Bei Fehlender Spannung an dem Transistor wird die Verbindung unterbrochen und der Batterie-Motor-Stromkreislauf ist nicht mehr geschlossen. Das Skript haben wir so geschrieben, dass der Motor sich beginnt zu Drehen und nach einer bestimmten Zeit wieder stoppt. Zudem haben wir festgestellt, wenn man den Zeitlichen Abstand zwischen Drehen und Stopp sehr kurz hält, so scheint es als sei der Motor gedrosselt. Folglich erscheint es dem Menschen, als würde sich der Motor langsam drehen und nicht an und ausgehen.</p>
 
 <h3>
