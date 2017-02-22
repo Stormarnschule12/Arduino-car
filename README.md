@@ -90,37 +90,41 @@
 <table>
 <thead>
 <tr>
-<th>Spalte 1</th>
-<th align="center">Spalte 2</th>
+<th>Datum</th>
+<th align="center">Aktivität</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Spalte 1.1</td>
+<td>Montag, 05.12.16</td>
 <td align="center">Spalte 2.1</td>
 </tr>
 <tr>
-<td>Spalte 1.2</td>
+<td>Montag, 12.12.16</td>
 <td align="center">Spalte 2.2</td>
 </tr>
 <tr>
-<td>Spalte 1.3</td>
+<td>Montag, 16.01.17</td>
 <td align="center">Spalte 2.3</td>
 </tr>
 <tr>
-<td>Spalte 1.4</td>
+<td>Donnerstag, 23.01.17</td>
 <td align="center">Spalte 2.4</td>
 </tr>
 <tr>
-<td>Spalte 1.1</td>
+<td>Dienstag, 07.02.17</td>
 <td align="center">Spalte 2.1</td>
 </tr>
 <tr>
-<td>Spalte 1.1</td>
+<td>Donnerstag, 09.02.17</td>
 <td align="center">Spalte 2.1</td>
 </tr>
 <tr>
-<td>Spalte 1.1</td>
+<td>Dienstag, 14.02.17</td>
+<td align="center">Spalte 2.1</td>
+</tr>
+<tr>
+<td>Donnerstag, 16.02.17</td>
 <td align="center">Spalte 2.1</td>
 </tr>
 </tbody>
