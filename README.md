@@ -111,5 +111,17 @@
 <td>Spalte 1.4</td>
 <td align="center">Spalte 2.4</td>
 </tr>
+<tr>
+<td>Spalte 1.1</td>
+<td align="center">Spalte 2.1</td>
+</tr>
+<tr>
+<td>Spalte 1.1</td>
+<td align="center">Spalte 2.1</td>
+</tr>
+<tr>
+<td>Spalte 1.1</td>
+<td align="center">Spalte 2.1</td>
+</tr>
 </tbody>
 </table>
