@@ -22,8 +22,8 @@
 <a id="2">2. Die ersten Versuche mit LED's</a>
 </h3>
 <p>
-<img src="Bilder/IMG_1838.JPG" alt="Bild1" style="width:100px;height:200px;border:0;">
-<img src="Bilder script/Taster.PNG" alt="Bild2" style="width:100px;height:200px;border:0;">
+<img src="Bilder/IMG_1838.JPG" alt="Bild1" style="width:100px;height:75px;border:0;">
+<img src="Bilder script/Taster.PNG" alt="Bild2" style="width:100px;height:150px;border:0;">
 </p>
 
 
