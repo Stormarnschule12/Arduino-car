@@ -21,6 +21,7 @@
 <h3>
 <a id="2">2. Die ersten Versuche mit LED's</a>
 </h3>
+
 <p>
 <img src="Bilder/IMG_1838.JPG" alt="Bild1" style="width:100px;height:75px;border:0;">
 <img src="Bilder script/Taster.PNG" alt="Bild2" style="width:100px;height:150px;border:0;">
@@ -32,8 +33,7 @@
 <h3>
 <a id="3">3. Der Transistor</a>
 </h3>
-<img src="Bilder/IMG_1843.JPG" alt="Bild3" style="width:420px;height:420px;border:0;">
-<img src="Bilder script/Transistor.PNG" alt="Bild4" style="width:420px;height:420px;border:0;">
+
 
 
 <p>Der nächste Schritt beinhaltete, dass wir beide uns mit einem Motor auseinander gesetzt haben. Die Schaltung, sowie der Skript sind nicht besonders komplex, doch es ging uns in erster Linie darum, die Funktionalität eines Motors sowie die Energieversorgung durch eine Externe Stromquelle zu erlernen. Damit die Batterie, über den Arduino gesteuert, den Motor mit Energie versorgen kann, haben wir einen Transistor verbaut. Dieser ermöglicht bei einer anliegenden Potenzialdifferenz, welche vom Arduino ausgeht, dass der Masseanschluss von der Batterie zum Motor hergestellt wird. Bei Fehlender Spannung an dem Transistor wird die Verbindung unterbrochen und der Batterie-Motor-Stromkreislauf ist nicht mehr geschlossen. Das Skript haben wir so geschrieben, dass der Motor sich beginnt zu Drehen und nach einer bestimmten Zeit wieder stoppt. Zudem haben wir festgestellt, wenn man den Zeitlichen Abstand zwischen Drehen und Stopp sehr kurz hält, so scheint es als sei der Motor gedrosselt. Folglich erscheint es dem Menschen, als würde sich der Motor langsam drehen und nicht an und ausgehen.</p>
