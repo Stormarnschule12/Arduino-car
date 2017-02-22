@@ -97,7 +97,7 @@
 <tbody>
 <tr>
 <td>Montag, 05.12.16</td>
-<td align="center">Spalte 2.1</td>
+<td align="center">Wiedereinfindung in die Materie und unser Projekt</td>
 </tr>
 <tr>
 <td>Montag, 12.12.16</td>
