@@ -23,10 +23,10 @@
 </h3>
 
 <p>
-<img src="Bilder/IMG_1838.JPG" alt="Bild1" style="width:100px;height:75px;border:0;">
+<img src="Bilder/IMG_1838.JPG" alt="Bild1" style="width:500px;height:375px;border:0;">
 </p>
 <p>
-<img src="Bilder script/Transistor.PNG" alt="Bild1" style="width:100px;height:150px;border:0;">
+<img src="Bilder script/Transistor.PNG" alt="Bild1" style="width:372px;height:558px;border:0;">
 </p>
 
 <p>Als erstes kleines Projekt haben wir eine einfache Ampel mit einem Knopf als Auslöser programmiert und aufgebaut. Zu Beginn brennt die grüne LED und die rote ist nicht in betrieb. Bei Benutzung der Taste geht die grüne LED aus und die rote LED beginnt zu leuchten. Nach einer in dem Skript fest definierten Zeit, wird dieser Vorgang revidiert und die LED's sind in ihrem Ausgangszustand. Dieser erste Aufbau hat es uns ermöglicht die Benutzung der Arduino Software zu erlernen. Zudem haben wir die Grundlegenden Formeln für die Programmierung kennengelernt.</p>
