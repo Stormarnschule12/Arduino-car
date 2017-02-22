@@ -88,6 +88,15 @@
 <a id="8">9.Das Auto</a>
 </h3>
 
+<p>Alles momentanes Ende unseres Projektes mit dem Arduino stellten wir in den letzten Stunden unser Auto fertig. Der Code hierfür besteht aus zwei Teilen.<br>
+1. Der Ausleseung des Ultraschallsensors<br>
+Und 2. Der Steuerung für die beiden Elektromotoren<br>
+Für die Auslesung wird die Zeit zwischen Aussenden und Empfangen gemessen, durch die Schallgeschwindigkeit und durch zwei geteilt, so wird die Distanz errechnet.<br>
+Über einen Ultraschallsensor kann nur ein Wert und auch nur einer der beiden Motoren angesteuert werden. Heißt, ein Motor läuft immer und er auf der anderen Seite stoppt, wenn von dem Sensor ein Hinderniss vor dem Auto gemessen wird. Das Auto kann sich also immer nur in eine Richtung drehen.<br>
+Damit das Auto nicht mit den Reifen, welche breiter als die Front des Autos mit dem Sensor sind, gegen ein Hinderniss stößt, programmierten wir noch eine Unterbrechung ein, nachdem ein Hinderniss gemessen wurde, damit diesem vollständig ausgewichen wird.<br>
+Zum Ende der letzten Stund war unser Auto theoretisch in der Lage selbständig zu fahren, es gibt nur noch ein Traktionsproblem, da die Räder nicht sehr fest auf den Achsen sitzen. Ebenfalls wegen der Räder müsste das Chassie strukturel noch verstärkt werden.<br>
+Ein anfängliches Problem mit der großen Reibung beim lenken lösten wir durch einen reibungsarmen Tischtennisball anstelle eines Hinterrades.
+
 <h3>
 <a id="9">9.Zeitliche Übersicht</a>
 </h3>
