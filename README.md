@@ -7,6 +7,7 @@
 <li><a href="#5">5. Der Motor</a></li>
 <li><a href="#6">6. Der Ultraschallsensor</a></li>
 <li><a href="#7">7. Fazit</a></li>
+<li><a href="#8">8. Zeitliche Übersicht</a></li>
 </ul>
 
 
@@ -81,3 +82,39 @@
 </h3>
 
 <p>Abschließend würden wir selbsteinschätzend sagen, dass wir bis zum jetzigen Punkt gute Fortschritte gemacht haben und insbesondere in der Arbeit mit Programmierung viele neue Kenntnisse gesammelt haben. Wir sind mir der Wahl unseres Projektes immer noch sehr zufrieden und motiviert unser finales Ziel zu erreichen. Unsere Zusammenarbeit hat sehr gut funktioniert und in den Aufgaben haben wir regelmäßig gewechselt, so dass beide einen gleichen Anteil am Projekt haben.</p>
+
+<h3>
+<a id="8">8.Zeitliche Übersicht</a>
+</h3>
+
+<table>
+<thead>
+<tr>
+<th>Spalte 1</th>
+<th align="center">Spalte 2</th>
+<th align="center">Spalte 3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Spalte 1.1</td>
+<td align="center">Spalte 2.1</td>
+<td align="center">Spalte 3.1</td>
+</tr>
+<tr>
+<td>Spalte 1.2</td>
+<td align="center">Spalte 2.2</td>
+<td align="center">Spalte 2.3</td>
+</tr>
+<tr>
+<td>Spalte 1.3</td>
+<td align="center">Spalte 2.3</td>
+<td align="center">Spalte 3.3</td>
+</tr>
+<tr>
+<td>Spalte 1.4</td>
+<td align="center">Spalte 2.4</td>
+<td align="center">Spalte 3.4</td>
+</tr>
+</tbody>
+</table>
