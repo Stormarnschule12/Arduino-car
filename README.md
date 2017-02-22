@@ -101,15 +101,15 @@
 </tr>
 <tr>
 <td>Montag, 12.12.16</td>
-<td align="center">Spalte 2.2</td>
+<td align="center">Aufstellen einer Liste, welche Sachen wir für unser Auto noch erledigen müssen</td>
 </tr>
 <tr>
 <td>Montag, 16.01.17</td>
-<td align="center">Spalte 2.3</td>
+<td align="center">Überlegungen zur praktischen Fertigstellung unseres Halbjahresprojektes</td>
 </tr>
 <tr>
 <td>Donnerstag, 23.01.17</td>
-<td align="center">Spalte 2.4</td>
+<td align="center">Selbstständiges Einlesen in die Grundlagen von Github-Pages</td>
 </tr>
 <tr>
 <td>Dienstag, 07.02.17</td>
@@ -121,11 +121,11 @@
 </tr>
 <tr>
 <td>Dienstag, 14.02.17</td>
-<td align="center">Fertigstellung und erste Korrekturen an unserem Auto</td>
+<td align="center">Fertigstellung und erste Korrekturen an unserem Auto und Code</td>
 </tr>
 <tr>
 <td>Donnerstag, 16.02.17</td>
-<td align="center">"Feinschliff" an dem Auto</td>
+<td align="center">"Feinschliff" an dem Auto und Code</td>
 </tr>
 </tbody>
 </table>
