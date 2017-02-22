@@ -113,19 +113,19 @@
 </tr>
 <tr>
 <td>Dienstag, 07.02.17</td>
-<td align="center">Spalte 2.1</td>
+<td align="center">Vortrag von Stefan zu html Grundlagen für GitHub-Pages</td>
 </tr>
 <tr>
 <td>Donnerstag, 09.02.17</td>
-<td align="center">Spalte 2.1</td>
+<td align="center">Beginn der "Bauarbeiten" an unserem Auto</td>
 </tr>
 <tr>
 <td>Dienstag, 14.02.17</td>
-<td align="center">Spalte 2.1</td>
+<td align="center">Fertigstellung und erste Korrekturen an unserem Auto</td>
 </tr>
 <tr>
 <td>Donnerstag, 16.02.17</td>
-<td align="center">Spalte 2.1</td>
+<td align="center">"Feinschliff" an dem Auto</td>
 </tr>
 </tbody>
 </table>
