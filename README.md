@@ -83,7 +83,11 @@
 <h3>
 <a id="8">9.Das Auto</a>
 </h3>
+<p>
+<img src="Bilder/IMG_2275.JPG" alt="Bild1" style="width:400px;border:0;">
+<p/>
 
+<p><a href="https://github.com/Stormarnschule12/Arduino-car/blob/master/sketch_Ultraschallsensor_mit_Motor.ino">Auto</a></p>
 <p>Alles momentanes Ende unseres Projektes mit dem Arduino stellten wir in den letzten Stunden unser Auto fertig. Der Code hierfür besteht aus zwei Teilen.<br>
 1. Der Ausleseung des Ultraschallsensors<br>
 Und 2. Der Steuerung für die beiden Elektromotoren<br>
@@ -93,8 +97,7 @@ Damit das Auto nicht mit den Reifen, welche breiter als die Front des Autos mit 
 Zum Ende der letzten Stund war unser Auto theoretisch in der Lage selbständig zu fahren, es gibt nur noch ein Traktionsproblem, da die Räder nicht sehr fest auf den Achsen sitzen. Ebenfalls wegen der Räder müsste das Chassie strukturel noch verstärkt werden.<br>
 Ein anfängliches Problem mit der großen Reibung beim lenken lösten wir durch einen reibungsarmen Tischtennisball anstelle eines Hinterrades.
 
-<p>
-<img src="Bilder/IMG_2275.JPG" alt="Bild1" style="width:400px;border:0;">
+
 <h3>
 <a id="9">9.Zeitliche Übersicht</a>
 </h3>
