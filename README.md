@@ -87,7 +87,7 @@
 <img src="Bilder/IMG_2275.JPG" alt="Bild1" style="width:400px;border:0;">
 <p/>
 
-<p><a href="https://github.com/Stormarnschule12/Arduino-car/blob/master/sketch_Ultraschallsensor_mit_Motor.ino">Auto</a></p>
+<p><a href="https://github.com/Stormarnschule12/Arduino-car/blob/master/sketch_Ultraschallsensor_mit_Motor.ino">Sketch Auto</a></p>
 <p>Alles momentanes Ende unseres Projektes mit dem Arduino stellten wir in den letzten Stunden unser Auto fertig. Der Code hierfür besteht aus zwei Teilen.<br>
 1. Der Ausleseung des Ultraschallsensors<br>
 Und 2. Der Steuerung für die beiden Elektromotoren<br>
