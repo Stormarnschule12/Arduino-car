@@ -93,6 +93,8 @@ Damit das Auto nicht mit den Reifen, welche breiter als die Front des Autos mit 
 Zum Ende der letzten Stund war unser Auto theoretisch in der Lage selbständig zu fahren, es gibt nur noch ein Traktionsproblem, da die Räder nicht sehr fest auf den Achsen sitzen. Ebenfalls wegen der Räder müsste das Chassie strukturel noch verstärkt werden.<br>
 Ein anfängliches Problem mit der großen Reibung beim lenken lösten wir durch einen reibungsarmen Tischtennisball anstelle eines Hinterrades.
 
+<p>
+<img src="Bilder/IMG_2275.JPG" alt="Bild1" style="width:400px;border:0;">
 <h3>
 <a id="9">9.Zeitliche Übersicht</a>
 </h3>
