@@ -11,7 +11,7 @@
 <li><a href="#8">8. Das Auto</a></li>
 <li><a href="#9">9. Zeitliche Übersicht</a></li>
 <li><a href="#10">10. Funktionale Fehler des Autos</a></li>
-<li><a href="#11">11. Unser Auto 1.5</a></li>
+<li><a href="#11">11. Das Auto 1.5</a></li>
 </ul>
 
 
@@ -158,7 +158,7 @@ Aus dem Aufbau unseres Autos resultiert, dass das Auto nur in eine Richtung ausw
 </p>
 
 <h3>
-<a id="11">11. Unser Auto 1.5</a>
+<a id="11">11. Das Auto 1.5</a>
 </h3>
 
 
