@@ -189,27 +189,27 @@ Durch die Neuverkabelung ergibt sich allerdings ein neues Problem. Durch die hö
 <tbody>
 <tr>
 <td>Mittwoch, 22.02.17</td>
-<td align="center">Wiedereinfindung in die Materie und unser Projekt</td>
+<td align="center">Abgabe Zwischenergebnisse</td>
 </tr>
 <tr>
 <td>Donnerstag, 23.02.17</td>
-<td align="center">Aufstellen einer Liste, welche Sachen wir für unser Auto noch erledigen müssen</td>
+<td align="center"></td>
 </tr>
 <tr>
 <td>Mittwoch, 01.03.17</td>
-<td align="center">Überlegungen zur praktischen Fertigstellung unseres Halbjahresprojektes</td>
+<td align="center"></td>
 </tr>
 <tr>
 <td>Donnerstag, 02.03.17</td>
-<td align="center">Selbstständiges Einlesen in die Grundlagen von Github-Pages</td>
+<td align="center"></td>
 </tr>
 <tr>
 <td>Mittwoch, 08.03.17</td>
-<td align="center">Vortrag von Stefan zu html Grundlagen für GitHub-Pages</td>
+<td align="center"></td>
 </tr>
 <tr>
 <td>Donnerstag, 09.03.17</td>
-<td align="center">Beginn der "Bauarbeiten" an unserem Auto</td>
+<td align="center"></td>
 </tr>
 </tbody>
 </table>
