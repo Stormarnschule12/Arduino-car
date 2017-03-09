@@ -94,13 +94,13 @@
 
 <p><a href="https://github.com/Stormarnschule12/Arduino-car/blob/master/sketch_Ultraschallsensor_mit_Motor.ino">Sketch Auto</a></p>
 <p>Alles momentanes Ende unseres Projektes mit dem Arduino stellten wir in den letzten Stunden unser Auto fertig. Der Code hierfür besteht aus zwei Teilen.<br>
-1. Der Ausleseung des Ultraschallsensors<br>
+1. Der Auslesung des Ultraschallsensors<br>
 Und 2. Der Steuerung für die beiden Elektromotoren<br>
 Für die Auslesung wird die Zeit zwischen Aussenden und Empfangen gemessen, durch die Schallgeschwindigkeit und durch zwei geteilt, so wird die Distanz errechnet.<br>
-Über einen Ultraschallsensor kann nur ein Wert und auch nur einer der beiden Motoren angesteuert werden. Heißt, ein Motor läuft immer und er auf der anderen Seite stoppt, wenn von dem Sensor ein Hinderniss vor dem Auto gemessen wird. Das Auto kann sich also immer nur in eine Richtung drehen.<br>
-Damit das Auto nicht mit den Reifen, welche breiter als die Front des Autos mit dem Sensor sind, gegen ein Hinderniss stößt, programmierten wir noch eine Unterbrechung ein, nachdem ein Hinderniss gemessen wurde, damit diesem vollständig ausgewichen wird.<br>
-Zum Ende der letzten Stund war unser Auto theoretisch in der Lage selbständig zu fahren, es gibt nur noch ein Traktionsproblem, da die Räder nicht sehr fest auf den Achsen sitzen. Ebenfalls wegen der Räder müsste das Chassie strukturel noch verstärkt werden.<br>
-Ein anfängliches Problem mit der großen Reibung beim lenken lösten wir durch einen reibungsarmen Tischtennisball anstelle eines Hinterrades.
+Über einen Ultraschallsensor kann nur ein Wert und auch nur einer der beiden Motoren angesteuert werden. Heißt, ein Motor läuft immer und er auf der anderen Seite stoppt, wenn von dem Sensor ein Hindernis vor dem Auto gemessen wird. Das Auto kann sich also immer nur in eine Richtung drehen.<br>
+Damit das Auto nicht mit den Reifen, welche breiter als die Front des Autos mit dem Sensor sind, gegen ein Hindernis stößt, programmierten wir noch eine Unterbrechung ein, nachdem ein Hindernis gemessen wurde, damit diesem vollständig ausgewichen wird.<br>
+Zum Ende der letzten Stunde war unser Auto theoretisch in der Lage selbständig zu fahren, es gibt nur noch ein Traktionsproblem, da die Räder nicht sehr fest auf den Achsen sitzen. Ebenfalls wegen der Räder müsste das Chassi strukturell noch verstärkt werden.<br>
+Ein anfängliches Problem mit der großen Reibung beim Lenken lösten wir durch einen reibungsarmen Tischtennisball anstelle eines Hinterrades.
 </p>
 
 <h3>
@@ -156,7 +156,7 @@ Ein anfängliches Problem mit der großen Reibung beim lenken lösten wir durch 
 
 
 <p>
-Aus dem Aufbau unseres Autos resultiert, dass das Auto nur in eine Richtung ausweichen kann, da der Code so funktioniert, dass bei einem Hindernis ein Motor weiter vorwärts dreht und der andere stopt. Somit kann es passieren, dass sich das Auto in Hindernise schräg links von ihm festfährt. Ein Detailproblem, welches die grundlegnede Funktion des Autos nicht beeinträchtigt, ist, dass die Reifen nicht perfekt auf den Achsen sitzten, was zu Energieverlust führt. Außerdem haben die Reifen auf staubigem oder dreckigem Boden nach kurzer Zeit Gripprobleme.  
+Aus dem Aufbau unseres Autos resultiert, dass das Auto nur in eine Richtung ausweichen kann, da der Code so funktioniert, dass bei einem Hindernis ein Motor weiter vorwärts dreht und der andere stoppt. Somit kann es passieren, dass sich das Auto in Hindernisse schräg links von ihm festfährt. Ein Detailproblem, welches die grundlegende Funktion des Autos nicht beeinträchtigt, ist, dass die Reifen nicht perfekt auf den Achsen sitzen, was zu Energieverlust führt. Außerdem haben die Reifen auf staubigem oder dreckigem Boden nach kurzer Zeit Grip-Probleme.  
 </p>
 
 <h3>
@@ -165,11 +165,11 @@ Aus dem Aufbau unseres Autos resultiert, dass das Auto nur in eine Richtung ausw
 
 
 <p>
-Um das Problem des festfahrens zu lösen, wollten wir das Auto, wenn es ein Hindernis erkennt, erst einmal zurücksetzt. Dafür müssen die Motoren umgepolt werden. <br>
-Durch eine Neuverkabelung der Motoren, können diese an beiden Anschlüssen mit Strom versorgt und an beiden geerdet werden, dies ermöglicht eine Drehung in beide Richtung.<br>
-Dies wird durch den Einsatz von Wiederständen ermöglicht. Jeder Pol eines Motors ist durch einen Wiederstand mit dem Plus sowie dem Minuspol verbunden. Desweiteren ist jeder Pol auch mit einem Pin des Arduino verbunden. Die Rückwertsfahrt wird ermöglicht, wenn der eine Pin des Motors eingeschaltet ist und der Andere aus, dann hat der Motor zum einen durch den Wiederstand auf dem abgeschalteten pol eine Verbindung zur Erdung und zum anderen eine Verbindung zu einem Pluspol durch den Eingeschalteten Pin. Die Verbindung zum 5V Anschluss des Arduinos mit einem Wiederstand sorgt zudem dafür, dass den Motor eine erhöhte Leistung erhält. Die Vorwärtsfahrt wird durch eine umpolung der beiden Pins ermöglicht. 
+Um das Problem des Festfahrens zu lösen, wollten wir das Auto, wenn es ein Hindernis erkennt, erst einmal zurücksetzt. Dafür müssen die Motoren umgepolt werden. <br>
+Durch eine Neuverkabelung der Motoren, können diese an beiden Anschlüssen mit Strom versorgt und an beiden geerdet werden, dies ermöglicht eine Drehung in beide Richtungen.<br>
+Dies wird durch den Einsatz von Wiederständen ermöglicht. Jeder Pol eines Motors ist durch einen Wiederstand mit dem Plus sowie dem Minuspol verbunden. Des Weiteren ist jeder Pol auch mit einem Pin des Arduino verbunden. Die Rückwärtsfahrt wird ermöglicht, wenn der eine Pin des Motors eingeschaltet ist und der Andere aus, dann hat der Motor zum einen durch den Wiederstand auf dem abgeschalteten pol eine Verbindung zur Erdung und zum anderen eine Verbindung zu einem Pluspol durch den Eingeschalteten Pin. Die Verbindung zum 5V Anschluss des Arduinos mit einem Wiederstand sorgt zudem dafür, dass den Motor eine erhöhte Leistung erhält. Die Vorwärtsfahrt wird durch eine Umpolung der beiden Pins ermöglicht. 
 Durch das Zusammenspiel beider Motoren kann der Roboter, wenn ein Hindernis erkannt wird, nun erst zurücksetzen und dann drehen. Dadurch fährt er sich nicht mehr so leicht fest.<br>
-Durch die Neuverkabelung errgibt sich allerdings ein neues Problem. Durch die höhren wiederstände kommt weniger Strom an den Motoren an, in Verbindung mit den in <a href="#10">10.</a> genannten Traktionsproblemen führte das Teilweise zu Leistungsproblemen.  
+Durch die Neuverkabelung ergibt sich allerdings ein neues Problem. Durch die höheren wiederstände kommt weniger Strom an den Motoren an, in Verbindung mit den in <a href="#10">10.</a> genannten Traktionsproblemen führte das Teilweise zu Leistungsproblemen.  
 </p>
 
 <h3>
