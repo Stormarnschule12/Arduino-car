@@ -1,8 +1,6 @@
+<a id="Anf"></a>
 <h1>Arduino-Project</h1>
 <ul>
-<h3>
-<a id="Anf"></a>
-</h3>
 <li><a href="#1">1. Einleitung</a></li>
 <li><a href="#2">2. Die ersten Versuche mit LED's</a></li>
 <li><a href="#3">3. Der Transistor</a></li>
