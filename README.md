@@ -10,6 +10,7 @@
 <li><a href="#8">8. Das Auto</a></li>
 <li><a href="#9">9. Zeitliche Übersicht</a></li>
 <li><a href="#10">10. Funktionale Fehler des Autos</a></li>
+<li><a href="#11">11. Unser Auto 1.5</a></li>
 </ul>
 
 
@@ -151,12 +152,18 @@ Ein anfängliches Problem mit der großen Reibung beim lenken lösten wir durch 
 </h3>
 
 
-<p>Alles momentanes Ende unseres Projektes mit dem Arduino stellten wir in den letzten Stunden unser Auto fertig. Der Code hierfür besteht aus zwei Teilen.<br>
-1. Der Ausleseung des Ultraschallsensors<br>
-Und 2. Der Steuerung für die beiden Elektromotoren<br>
-Für die Auslesung wird die Zeit zwischen Aussenden und Empfangen gemessen, durch die Schallgeschwindigkeit und durch zwei geteilt, so wird die Distanz errechnet.<br>
-Über einen Ultraschallsensor kann nur ein Wert und auch nur einer der beiden Motoren angesteuert werden. Heißt, ein Motor läuft immer und er auf der anderen Seite stoppt, wenn von dem Sensor ein Hinderniss vor dem Auto gemessen wird. Das Auto kann sich also immer nur in eine Richtung drehen.<br>
-Damit das Auto nicht mit den Reifen, welche breiter als die Front des Autos mit dem Sensor sind, gegen ein Hinderniss stößt, programmierten wir noch eine Unterbrechung ein, nachdem ein Hinderniss gemessen wurde, damit diesem vollständig ausgewichen wird.<br>
-Zum Ende der letzten Stund war unser Auto theoretisch in der Lage selbständig zu fahren, es gibt nur noch ein Traktionsproblem, da die Räder nicht sehr fest auf den Achsen sitzen. Ebenfalls wegen der Räder müsste das Chassie strukturel noch verstärkt werden.<br>
-Ein anfängliches Problem mit der großen Reibung beim lenken lösten wir durch einen reibungsarmen Tischtennisball anstelle eines Hinterrades.
+<p>
+Aus dem Aufbau unseres Autos resultiert, dass das Auto nur in eine Richtung ausweichen kann, da der Code so funktioniert, dass bei einem Hindernis ein Motor weiter vorwärts dreht und der andere stopt. Somit kann es passieren, dass sich das Auto in Hindernise schräg links von ihm festfährt. Ein Detailproblem, welches die grundlegnede Funktion des Autos nicht beeinträchtigt, ist, dass die Reifen nicht perfekt auf den Achsen sitzten, was zu Energieverlust führt. Außerdem haben die Reifen auf staubigem oder dreckigem Boden nach kurzer Zeit Gripprobleme.  
+</p>
+
+<h3>
+<a id="11">11. Unser Auto 1.5</a>
+</h3>
+
+
+<p>
+Um das Problem des festfahrens zu lösen, wollten wir das Auto, wenn es ein Hindernis erkennt, erst einmal zurücksetzt. Dafür müssen die Motoren umgepolt werden. <br>
+Durch eine Neuverkabelung der Motoren, können diese an beiden Anschlüssen mit Strom versorgt und an beiden geerdet werden, dies ermöglicht eine Drehung in beide Richtung.<br>
+Durch das Zusammenspiel beider Motoren kann der Roboter, wenn ein Hindernis erkannt wird, nun erst zurücksetzen und dann drehen. Dadurch fährt er sich nicht mehr so leicht fest.<br>
+Durch die Neuverkabelung errgibt sich allerdings ein neues Problem. Durch die höhren wiederstände kommt weniger Strom an den Motoren an, in Verbindung mit den in #10 genannten Traktionsproblemen führte das Teilweise zu Leistungsproblemen.  
 </p>
