@@ -167,3 +167,6 @@ Durch eine Neuverkabelung der Motoren, können diese an beiden Anschlüssen mit 
 Durch das Zusammenspiel beider Motoren kann der Roboter, wenn ein Hindernis erkannt wird, nun erst zurücksetzen und dann drehen. Dadurch fährt er sich nicht mehr so leicht fest.<br>
 Durch die Neuverkabelung errgibt sich allerdings ein neues Problem. Durch die höhren wiederstände kommt weniger Strom an den Motoren an, in Verbindung mit den in <a href="#10">10.</a> genannten Traktionsproblemen führte das Teilweise zu Leistungsproblemen.  
 </p>
+
+
+<li><a href="#Anf">Zum Inhaltsverzeichnis</a></li>
