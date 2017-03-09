@@ -12,6 +12,8 @@
 <li><a href="#9">9. Zeitliche Übersicht</a></li>
 <li><a href="#10">10. Funktionale Fehler des Autos</a></li>
 <li><a href="#11">11. Das Auto 1.5</a></li>
+<li><a href="#12">10. Das Auto 2.0</a></li>
+<li><a href="#13">11. Zeitliche Übersicht 2</a></li>
 </ul>
 
 
@@ -171,3 +173,11 @@ Durch die Neuverkabelung errgibt sich allerdings ein neues Problem. Durch die h�
 
 
 <a href="#Anf">Zum Seitenanfang</a>
+
+<h3>
+<a id="12">12. Das Auto 2.0</a>
+</h3>
+
+<h3>
+<a id="13">12. Zeitliche Übersicht 2</a>
+</h3>
