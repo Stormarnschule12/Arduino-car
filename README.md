@@ -165,5 +165,5 @@ Aus dem Aufbau unseres Autos resultiert, dass das Auto nur in eine Richtung ausw
 Um das Problem des festfahrens zu lösen, wollten wir das Auto, wenn es ein Hindernis erkennt, erst einmal zurücksetzt. Dafür müssen die Motoren umgepolt werden. <br>
 Durch eine Neuverkabelung der Motoren, können diese an beiden Anschlüssen mit Strom versorgt und an beiden geerdet werden, dies ermöglicht eine Drehung in beide Richtung.<br>
 Durch das Zusammenspiel beider Motoren kann der Roboter, wenn ein Hindernis erkannt wird, nun erst zurücksetzen und dann drehen. Dadurch fährt er sich nicht mehr so leicht fest.<br>
-Durch die Neuverkabelung errgibt sich allerdings ein neues Problem. Durch die höhren wiederstände kommt weniger Strom an den Motoren an, in Verbindung mit den in <li>href="#10">10.</li> genannten Traktionsproblemen führte das Teilweise zu Leistungsproblemen.  
+Durch die Neuverkabelung errgibt sich allerdings ein neues Problem. Durch die höhren wiederstände kommt weniger Strom an den Motoren an, in Verbindung mit den in <a>href="#10">10.</a> genannten Traktionsproblemen führte das Teilweise zu Leistungsproblemen.  
 </p>
