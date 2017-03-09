@@ -1,7 +1,7 @@
 <h1>Arduino-Project</h1>
 <ul>
 <h3>
-<a id="Anf">Inhalt</a>
+<a id="Anf"></a>
 </h3>
 <li><a href="#1">1. Einleitung</a></li>
 <li><a href="#2">2. Die ersten Versuche mit LED's</a></li>
@@ -172,4 +172,4 @@ Durch die Neuverkabelung errgibt sich allerdings ein neues Problem. Durch die h√
 </p>
 
 
-<a href="#Anf">Zum Inhaltsverzeichnis</a>
+<a href="#Anf">Zum Seitenanfang</a>
