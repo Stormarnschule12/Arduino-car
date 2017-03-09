@@ -172,4 +172,4 @@ Durch die Neuverkabelung errgibt sich allerdings ein neues Problem. Durch die h√
 </p>
 
 
-<li><a href="#Anf">Zum Inhaltsverzeichnis</a></li>
+<a href="#Anf">Zum Inhaltsverzeichnis</a>
