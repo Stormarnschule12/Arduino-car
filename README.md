@@ -177,7 +177,7 @@ Durch die Neuverkabelung ergibt sich allerdings ein neues Problem. Durch die hö
 </h3>
 <p>
 Um die Leistung der beiden Motoren zu erhöhen haben wir uns überlegt wie wir mehr Spannung ausgeben können.<br>
-Da der Arduino über die Pins nur bis zu 5v ausgeben kann und wir über unsere Schaltung, die das Umpolen ermöglicht, die Leistung über mehrere Wiederstände weiter reduzieren mussten, mussten wir die Grundspannung erhöhen. Hierzu bedienten wir uns an Transistoren, wie wir es schon in <a href="#3">Der Transisto.</a>
+Da der Arduino über die Pins nur bis zu 5v ausgeben kann und wir über unsere Schaltung, die das Umpolen ermöglicht, die Leistung über mehrere Wiederstände weiter reduzieren mussten, mussten wir die Grundspannung erhöhen. Hierzu bedienten wir uns an Transistoren, wie wir es schon in <a href="#3">Der Transistor</a>
 <h3>
 <a id="13">13. Zeitliche Übersicht 2</a>
 </h3>
