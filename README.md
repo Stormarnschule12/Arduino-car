@@ -87,7 +87,7 @@
 <p>Abschließend würden wir selbsteinschätzend sagen, dass wir bis zum jetzigen Punkt gute Fortschritte gemacht haben und insbesondere in der Arbeit mit Programmierung viele neue Kenntnisse gesammelt haben. Wir sind mir der Wahl unseres Projektes immer noch sehr zufrieden und motiviert unser finales Ziel zu erreichen. Unsere Zusammenarbeit hat sehr gut funktioniert und in den Aufgaben haben wir regelmäßig gewechselt, so dass beide einen gleichen Anteil am Projekt haben.</p>
 
 <h3>
-<a id="8">8.Das Auto</a>
+<a id="8">8. Das Auto</a>
 </h3>
 <p>
 <img src="Bilder/IMG_2275.JPG" alt="Bild1" style="width:400px;border:0;">
@@ -105,7 +105,7 @@ Ein anfängliches Problem mit der großen Reibung beim Lenken lösten wir durch 
 </p>
 
 <h3>
-<a id="9">9.Zeitliche Übersicht</a>
+<a id="9">9. Zeitliche Übersicht</a>
 </h3>
 
 <table>
