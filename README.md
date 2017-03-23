@@ -185,7 +185,7 @@ Durch die Neuverkabelung ergibt sich allerdings ein neues Problem. Durch die hö
 <h3>
 <a id="12">12. Das Auto 2.0</a>
 </h3>
-<p><a href="https://github.com/Stormarnschule12/Arduino-car/blob/master/sketch_Taster.ino">Sketch Taster</a></p>
+<p><a href="https://github.com/Stormarnschule12/Arduino-car/blob/master/sketch_Motor_in_Beide_Richtungen_mit_zwei_Ultraschallsensoren.inoo">Sketch Taster</a></p>
 <p>
 Um die Leistung der beiden Motoren zu erhöhen haben wir uns überlegt wie wir mehr Spannung ausgeben können.<br>
 Da der Arduino über die Pins nur bis zu 5v ausgeben kann und wir über unsere Schaltung, die das Umpolen ermöglicht, die Leistung über mehrere Wiederstände weiter reduzieren mussten, mussten wir die Grundspannung erhöhen. Hierzu bedienten wir uns an Transistoren, wie wir es schon in <a href="#3">Der Transistor</a> gemacht hatten. Mit den Transistoren konnten wir bei einem Auto, das nur vorwärts fährt und in zwei Richtungen ausweichen kann gute Ergebnisse erzielen. Das Auto fuhr schneller und fuhr die kurven ohne Probleme nehmen konnte. <br>
