@@ -250,7 +250,7 @@ Am Unterricht in Informatik hat uns gut gefallen, dass…<br>
 Für nächstes Mal würden wir uns wünschen, dass...<br>
 <ul>
 <li>…wir in den ersten Stunden einen gemeinsamen Einstieg haben, in dem Grundlagen gemeinsam erlernt werden</li>
-<li>…es leichter wäre Programme auf den Rechnern zu instalieren, da wir öfter auf Hilfe warrten mussten um die Arduino sowfware zu instalieren, da dies mit unseren Rechtne nicht möglich war.</li>
+<li>…es leichter wäre Programme auf den Rechnern zu instalieren, da wir öfter auf Hilfe warrten mussten um die Arduino sowfware zu instalieren, da dies mit unseren Rechen nicht möglich war.</li>
 </ul> 
 
 </p>
