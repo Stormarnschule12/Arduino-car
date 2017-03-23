@@ -168,7 +168,7 @@ Aus dem Aufbau unseres Autos resultiert, dass das Auto nur in eine Richtung ausw
 <p>
 Um das Problem des Festfahrens zu lösen, wollten wir das Auto, wenn es ein Hindernis erkennt, erst einmal zurücksetzt. Dafür müssen die Motoren umgepolt werden. <br>
 Durch eine Neuverkabelung der Motoren, können diese an beiden Anschlüssen mit Strom versorgt und an beiden geerdet werden, dies ermöglicht eine Drehung in beide Richtungen.<br>
-Dies wird durch den Einsatz von Wiederständen ermöglicht. Jeder Pol eines Motors ist durch einen Wiederstand mit dem Plus sowie dem Minuspol verbunden. Des Weiteren ist jeder Pol auch mit einem Pin des Arduino verbunden. Die Rückwärtsfahrt wird ermöglicht, wenn der eine Pin des Motors eingeschaltet ist und der Andere aus, dann hat der Motor zum einen durch den Wiederstand auf dem abgeschalteten pol eine Verbindung zur Erdung und zum anderen eine Verbindung zu einem Pluspol durch den Eingeschalteten Pin. Die Verbindung zum 5V Anschluss des Arduinos mit einem Wiederstand sorgt zudem dafür, dass den Motor eine erhöhte Leistung erhält. Die Vorwärtsfahrt wird durch eine Umpolung der beiden Pins ermöglicht. 
+Dies wird durch den Einsatz von Wiederständen ermöglicht. Jeder Pol eines Motors ist durch einen Wiederstand mit dem Plus sowie dem Minuspol verbunden. Des Weiteren ist jeder Pol auch mit einem Pin des Arduino verbunden. Die Rückwärtsfahrt wird ermöglicht, wenn der eine Pin des Motors eingeschaltet ist und der Andere aus, dann hat der Motor zum einen durch den Wiederstand auf dem abgeschalteten pol eine Verbindung zur Erdung und zum anderen eine Verbindung zu einem Pluspol durch den Eingeschalteten Pin. Die Verbindung zum 5V Anschluss des Arduinos mit einem Wiederstand sorgt zudem dafür, dass den Motor eine erhöhte Leistung erhält. Die Vorwärtsfahrt wird durch eine Umpolung der beiden Pins ermöglicht.<br> 
 Durch das Zusammenspiel beider Motoren kann der Roboter, wenn ein Hindernis erkannt wird, nun erst zurücksetzen und dann drehen. Dadurch fährt er sich nicht mehr so leicht fest.<br>
 Durch die Neuverkabelung ergibt sich allerdings ein neues Problem. Durch die höheren wiederstände kommt weniger Strom an den Motoren an, in Verbindung mit den in <a href="#10">10.</a> genannten Traktionsproblemen führte das Teilweise zu Leistungsproblemen, also das das Auto sich nur mit einem Anstoß weiter bewegen kann.  
 </p>
@@ -199,23 +199,23 @@ Da bei der Verwendung eines Transistors der Pin, welchen man über den Arduino a
 </tr>
 <tr>
 <td>Donnerstag, 23.02.17</td>
-<td align="center">Nachdem wir unser Projekt abgegeben haben, haben wir uns sehr ausführlich überlegt, wie wir unseren Roboter verbesser können. Ein sehr großes Problem war, dass die Geschwindigkeit viel zu langsam ist. So sind wir schlussendlich zu dem Ergebniss gekommen, dass wir unser Fahrzeug schneller machen müssen.</td>
+<td align="center">Nachdem wir unser Projekt abgegeben haben, haben wir uns sehr ausführlich überlegt, wie wir unseren Roboter verbessern können. Ein sehr großes Problem war, dass die Geschwindigkeit viel zu langsam ist. So sind wir schlussendlich zu dem Ergebnis gekommen, dass wir unser Fahrzeug schneller machen müssen.</td>
 </tr>
 <tr>
 <td>Mittwoch, 01.03.17</td>
-<td align="center">Wir können wir unser Fharzeug Leistungsstärker machen? Die Lösung sind wie beim Auto 2.0 erläuterte Transistoren. Am heutigen Tag haben wir uns Überlegt, wie wir eine solche Schaltung zusammenstecken können, sodass diese Funktioniert.</td>
+<td align="center">Wir können wir unser Fahrzeug Leistungsstärker machen? Die Lösung sind wie beim Auto 2.0 erläuterte Transistoren. Am heutigen Tag haben wir uns Überlegt, wie wir eine solche Schaltung zusammenstecken können, sodass diese Funktioniert.</td>
 </tr>
 <tr>
 <td>Donnerstag, 02.03.17</td>
-<td align="center">Nachdem Wir am Mittwoch erste Ideen gefunden hatten, um eine Schaltung zusammenzustecken, haben wir unseren Ideen auf dem Steckbrett zusammen gebaut und ausprobiert. Zudem haben wir auch versucht mit änderungen in dem Code die schaltung zum laufen zu bringen. Leider ohne  Erfolg, da wir immer noch die Rückwärtsfahrt ermöglichen wollten.</td>
+<td align="center">Nachdem Wir am Mittwoch erste Ideen gefunden hatten, um eine Schaltung zusammenzustecken, haben wir unseren Ideen auf dem Steckbrett zusammen gebaut und ausprobiert. Zudem haben wir auch versucht mit Änderungen in dem Code die Schaltung zum Laufen zu bringen. Leider ohne  Erfolg, da wir immer noch die Rückwärtsfahrt ermöglichen wollten.</td>
 </tr>
 <tr>
 <td>Mittwoch, 08.03.17</td>
-<td align="center">Nachdem wir realisiert hatten, dass wir es mit unseren Kenntnissen nicht zu einem Erfolg mit den Transistoren bringen konnten, haben wir uns darauf verständigt, die Funktionen Einzuschränken, sodass unser Roboter nur noch vorwährts fahren kann. Wie bei 8. Hierfür haben wir uns schlussendlich in dieser Stunde gedangen und erste Versuche hierzu gemacht.</td>
+<td align="center">Nachdem wir realisiert hatten, dass wir es mit unseren Kenntnissen nicht zu einem Erfolg mit den Transistoren bringen konnten, haben wir uns darauf verständigt, die Funktionen Einzuschränken, sodass unser Roboter nur noch vorwärts fahren kann. Wie bei 8. Hierfür haben wir uns schlussendlich in dieser Stunde Gedanken und erste Versuche hierzu gemacht.</td>
 </tr>
 <tr>
 <td>Donnerstag, 09.03.17</td>
-<td align="center">Mit unseren Ideen von der vorherigen Stunde haben wir heute erste Versuche und verbesserungen für unser <a href="#12">Auto 2.0</a> gemacht. Leider fehlte uns zum Ende der Stunde ein wenig die Zeit unser Ergebniss Auszuprobieren.</td>
+<td align="center">Mit unseren Ideen von der vorherigen Stunde haben wir heute erste Versuche und Verbesserungen für unser <a href="#12">Auto 2.0</a> gemacht. Leider fehlte uns zum Ende der Stunde ein wenig die Zeit unser Ergebnis auszuprobieren.</td>
 </tr>
 <tr>
 <td>Dienstag, 14.03.17</td>
@@ -223,11 +223,11 @@ Da bei der Verwendung eines Transistors der Pin, welchen man über den Arduino a
 </tr>
 <tr>
 <td>Donnerstag, 16.03.17</td>
-<td align="center">Nach einem Zufrieden stellenden Projektabschlusses, haben wir uns heute daran gemacht unsere Github-Seite zu gestallten.</td>
+<td align="center">Nach einem zufrieden stellenden Projektabschlusses, haben wir uns heute daran gemacht unsere Github-Seite zu gestallten.</td>
 </tr>
 <tr>
 <td>Dienstag, 21.03.17</td>
-<td align="center">Am Dienstag hat uns im Informatik-Unterricht unsere Schulleiterin Frau Dr. Witte besucht. Ihr haben wir in allen einzelheiten erklärt, zu welchem Ziel wir in unsere Informatikprojektarbeit gekommen sind. Hierfür haben wir unser Auto zuerst zusammen bauen müssen, damit wir unser Schulleiterin unser PRojekt präsentieren konnten</td>
+<td align="center">Am Dienstag hat uns im Informatik-Unterricht unsere Schulleiterin Frau Dr. Witte besucht. Ihr haben wir in allen Einzelheiten erklärt, zu welchem Ziel wir in unsere Informatikprojektarbeit gekommen sind. Hierfür haben wir unser Auto zuerst zusammen bauen müssen, damit wir unser Schulleiterin unser Projekt präsentieren konnten</td>
 </tr>
 </tbody>
 </table>
@@ -243,14 +243,14 @@ Am Unterricht in Informatik hat uns gut gefallen, dass…<br>
 <li>…Wir eine freie Themenwahl hatten und in unserem eigenen Tempo arbeiten konnten </li>
 <li>…Unsere eigenen Zwischenziele setzen konnten und in der Gestaltung unserer Ergebnisse frei waren  </li>
 <li>…wir am Ende des Schuljahres ein Projekt abgeben konnten, in dem wir unsere Ziele erreicht haben, mit dem wir zufrieden sind und in dem wir uns selbst verwirklichen konnten.</li>
-<li>Wir neues gelernt haben, von dem wir vorher noch sehr wenig bis garkeine Kentnisse hatten</li>
+<li>Wir neues gelernt haben, von dem wir vorher noch sehr wenig bis gar keine Kenntnisse hatten</li>
 </ul>
 </p>
 <p>
 Für nächstes Mal würden wir uns wünschen, dass...<br>
 <ul>
 <li>…wir in den ersten Stunden einen gemeinsamen Einstieg haben, in dem Grundlagen gemeinsam erlernt werden</li>
-<li>…es leichter wäre Programme auf den Rechnern zu instalieren, da wir öfter auf Hilfe warrten mussten um die Arduino sowfware zu instalieren, da dies mit unseren Rechen nicht möglich war.</li>
+<li>…es leichter wäre Programme auf den Rechnern zu installieren, da wir öfter auf Hilfe warten mussten um die Arduino Software zu installieren, da dies mit unseren Rechen nicht möglich war.</li>
 </ul> 
 
 </p>
