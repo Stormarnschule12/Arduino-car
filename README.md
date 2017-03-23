@@ -215,11 +215,11 @@ Da bei der Verwendung eines Transistors der Pin, welchen man über den Arduino a
 </tr>
 <tr>
 <td>Donnerstag, 09.03.17</td>
-<td align="center">Mit unseren Ideen von der vorherigen Stunde haben wir heute erste Versuche und verbesserungen für unser Auto 2.0 gemacht. Leider fehlte uns zum Ende der Stunde ein wenig die Zeit unser Ergebniss Auszuprobieren.</td>
+<td align="center">Mit unseren Ideen von der vorherigen Stunde haben wir heute erste Versuche und verbesserungen für unser <a href="#12">Auto 2.0</a> gemacht. Leider fehlte uns zum Ende der Stunde ein wenig die Zeit unser Ergebniss Auszuprobieren.</td>
 </tr>
 <tr>
 <td>Dienstag, 14.03.17</td>
-<td align="center">Nach unseren Erfolgreichen Tests von der Vorherigen Woche, könnten wir heute ein, in unseren Augen, sehr schnelles Auto 2.0 auf die Beine stellen. Dieses hat auch sehr erfolgreich funktioniert</td>
+<td align="center">Nach unseren Erfolgreichen Tests von der Vorherigen Woche, könnten wir heute ein, in unseren Augen, sehr schnelles <a href="#12">Auto 2.0</a> auf die Beine stellen. Dieses hat auch sehr erfolgreich funktioniert</td>
 </tr>
 <tr>
 <td>Donnerstag, 16.03.17</td>
