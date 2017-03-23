@@ -173,7 +173,7 @@ Aus dem Aufbau unseres Autos resultiert, dass das Auto nur in eine Richtung ausw
 <a id="11">11. Das Auto 1.5</a>
 </h3>
 
-<p><a href="https://github.com/Stormarnschule12/Arduino-car/blob/master/sketch_Motor_in_Beide_Richtungen_mit_zwei_Ultraschallsensoren.webloc">Sketch Taster</a></p>
+<p><a href="https://github.com/Stormarnschule12/Arduino-car/blob/master/sketch_Ultraschallsensor_mit_Motor_mit_2_Sensoren.ino">Sketch Taster</a></p>
 <p>
 Um das Problem des Festfahrens zu lösen, wollten wir das Auto, wenn es ein Hindernis erkennt, erst einmal zurücksetzt. Dafür müssen die Motoren umgepolt werden. <br>
 Durch eine Neuverkabelung der Motoren, können diese an beiden Anschlüssen mit Strom versorgt und an beiden geerdet werden, dies ermöglicht eine Drehung in beide Richtungen.<br>
