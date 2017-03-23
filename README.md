@@ -177,7 +177,10 @@ Durch die Neuverkabelung ergibt sich allerdings ein neues Problem. Durch die hö
 </h3>
 <p>
 Um die Leistung der beiden Motoren zu erhöhen haben wir uns überlegt wie wir mehr Spannung ausgeben können.<br>
-Da der Arduino über die Pins nur bis zu 5v ausgeben kann und wir über unsere Schaltung, die das Umpolen ermöglicht, die Leistung über mehrere Wiederstände weiter reduzieren mussten, mussten wir die Grundspannung erhöhen. Hierzu bedienten wir uns an Transistoren, wie wir es schon in <a href="#3">Der Transistor</a> gemacht hatten.
+Da der Arduino über die Pins nur bis zu 5v ausgeben kann und wir über unsere Schaltung, die das Umpolen ermöglicht, die Leistung über mehrere Wiederstände weiter reduzieren mussten, mussten wir die Grundspannung erhöhen. Hierzu bedienten wir uns an Transistoren, wie wir es schon in <a href="#3">Der Transistor</a> gemacht hatten. Mit den Transistoren konnten wir bei einem Auto, das nur vorwärts fährt und in zwei Richtungen ausweichen kann gute Ergebnisse erzielen. Das Auto fuhr schneller und fuhr die kurven ohne Probleme nehmen konnte. <br>
+Problematisch war aber, die Schaltung, die das Umpolen der Motoren und somit das zurücksetzen des Autos ermöglichte, auf die Transistoren anzuwenden. <br>
+Da bei der Verwendung eines Transistors der Pin, welchen man über den Arduino ansteuert, nur den Stromfluss durch den Transistor ermöglicht und nicht somit nicht direkt mit dem Motor verbunden ist, ist es uns nicht gelungen eine Schaltung aufzubauen, welche beide Anschlüsse des Motors sowohl mit Strom zu versorgen, als auch zu erden.<p/>
+
 <h3>
 <a id="13">13. Zeitliche Übersicht 2</a>
 </h3>
@@ -227,4 +230,19 @@ Da der Arduino über die Pins nur bis zu 5v ausgeben kann und wir über unsere S
 </tr>
 </tbody>
 </table>
+
+<h3>
+<a id="14">14. Schlussfazit</a>
+</h3>
+
+<p>Abschließend können wir über unser Schuljahr Informatik sagen, dass wir unser persönliches Ziel erreicht haben. <br> 
+Wir haben ein selbstfahrendes Auto entwickelt, dass Hindernissen ausweichen kann.<br>
+Am Unterricht in Informatik hat uns gut gefallen, dass…<br>
+<ul>
+<li>…Wir eine freie Themenwahl hatten und in unserem eigenen Tempo arbeiten konnten </li>
+<li>…Unsere eigenen Zwischenziele setzen konnten und in der Gestaltung unserer Ergebnisse frei waren  </li>
+<li>…wir am Ende des Schuljahres ein Projekt abgeben konnten, in dem wir unsere Ziele erreicht haben, mit dem wir zufrieden sind und in dem wir uns selbst verwirklichen konnten.</li>
+<li>Thema 3</li>
+</ul> 
+<p/>
 <a href="#Anf">Zum Seitenanfang</a>
