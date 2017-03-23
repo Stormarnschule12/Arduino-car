@@ -190,40 +190,40 @@ Da der Arduino über die Pins nur bis zu 5v ausgeben kann und wir über unsere S
 </thead>
 <tbody>
 <tr>
-<td>Mittwoch, 22.02.17</td>
+<td>Dienstag, 21.02.17</td>
 <td align="center">Abgabe Zwischenergebnisse</td>
 </tr>
 <tr>
 <td>Donnerstag, 23.02.17</td>
-<td align="center"></td>
+<td align="center">Nachdem wir unser Projekt abgegeben haben, haben wir uns sehr ausführlich überlegt, wie wir unseren Roboter verbesser können. Ein sehr großes Problem war, dass die Geschwindigkeit viel zu langsam ist. So sind wir schlussendlich zu dem Ergebniss gekommen, dass wir unser Fahrzeug schneller machen müssen.</td>
 </tr>
 <tr>
 <td>Mittwoch, 01.03.17</td>
-<td align="center"></td>
+<td align="center">Wir können wir unser Fharzeug Leistungsstärker machen? Die Lösung sind wie beim Auto 2.0 erläuterte Transistoren. Am heutigen Tag haben wir uns Überlegt, wie wir eine solche Schaltung zusammenstecken können, sodass diese Funktioniert.</td>
 </tr>
 <tr>
 <td>Donnerstag, 02.03.17</td>
-<td align="center"></td>
+<td align="center">Nachdem Wir am Mittwoch erste Ideen gefunden hatten, um eine Schaltung zusammenzustecken, haben wir unseren Ideen auf dem Steckbrett zusammen gebaut und ausprobiert. Zudem haben wir auch versucht mit änderungen in dem Code die schaltung zum laufen zu bringen. Leider ohne  Erfolg, da wir immer noch die Rückwärtsfahrt ermöglichen wollten.</td>
 </tr>
 <tr>
 <td>Mittwoch, 08.03.17</td>
-<td align="center"></td>
+<td align="center">Nachdem wir realisiert hatten, dass wir es mit unseren Kenntnissen nicht zu einem Erfolg mit den Transistoren bringen konnten, haben wir uns darauf verständigt, die Funktionen Einzuschränken, sodass unser Roboter nur noch vorwährts fahren kann. Wie bei 8. Hierfür haben wir uns schlussendlich in dieser Stunde gedangen und erste Versuche hierzu gemacht.</td>
 </tr>
 <tr>
 <td>Donnerstag, 09.03.17</td>
-<td align="center"></td>
+<td align="center">Mit unseren Ideen von der vorherigen Stunde haben wir heute erste Versuche und verbesserungen für unser Auto 2.0 gemacht. Leider fehlte uns zum Ende der Stunde ein wenig die Zeit unser Ergebniss Auszuprobieren.</td>
 </tr>
 <tr>
 <td>Dienstag, 14.03.17</td>
-<td align="center"></td>
+<td align="center">Nach unseren Erfolgreichen Tests von der Vorherigen Woche, könnten wir heute ein, in unseren Augen, sehr schnelles Auto 2.0 auf die Beine stellen. Dieses hat auch sehr erfolgreich funktioniert</td>
 </tr>
 <tr>
 <td>Donnerstag, 16.03.17</td>
-<td align="center"></td>
+<td align="center">Nach einem Zufrieden stellenden Projektabschlusses, haben wir uns heute daran gemacht unsere Github-Seite zu gestallten.</td>
 </tr>
 <tr>
 <td>Dienstag, 21.03.17</td>
-<td align="center"></td>
+<td align="center">Am Dienstag hat uns im Informatik-Unterricht unsere Schulleiterin Frau Dr. Witte besucht. Ihr haben wir in allen einzelheiten erklärt, zu welchem Ziel wir in unsere Informatikprojektarbeit gekommen sind. Hierfür haben wir unser Auto zuerst zusammen bauen müssen, damit wir unser Schulleiterin unser PRojekt präsentieren konnten</td>
 </tr>
 </tbody>
 </table>
