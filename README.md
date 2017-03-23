@@ -244,7 +244,8 @@ Am Unterricht in Informatik hat uns gut gefallen, dass…<br>
 <li>…Unsere eigenen Zwischenziele setzen konnten und in der Gestaltung unserer Ergebnisse frei waren  </li>
 <li>…wir am Ende des Schuljahres ein Projekt abgeben konnten, in dem wir unsere Ziele erreicht haben, mit dem wir zufrieden sind und in dem wir uns selbst verwirklichen konnten.</li>
 <li>Wir neues gelernt haben, von dem wir vorher noch sehr wenig bis garkeine Kentnisse hatten<li/>
-<p/>
+</ul>
+</p>
 <p>
 Für nächstes Mal würden wir uns wünschen, dass...<br>
 <ul>
@@ -252,5 +253,5 @@ Für nächstes Mal würden wir uns wünschen, dass...<br>
 <li>…es leichter wäre Programme auf den Rechnern zu instalieren, da wir öfter auf Hilfe warrten mussten um die Arduino sowfware zu instalieren, da dies mit unseren Rechtne nicht möglich war.</li>
 </ul> 
 
-<p/>
+</p>
 <a href="#Anf">Zum Seitenanfang</a>
