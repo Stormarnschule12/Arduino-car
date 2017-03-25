@@ -101,7 +101,7 @@ Wir sind mir der Wahl unseres Projektes immer noch sehr zufrieden und motiviert 
 <p>
 <img src="Bilder/IMG_2275.JPG" alt="Bild1" style="width:400px;border:0;">
 <p/>
-<img src="Bilder/IMG_1838.JPG" alt="Bild1" style="width:400px;border:0;">
+
 <p><a href="https://github.com/Stormarnschule12/Arduino-car/blob/master/sketch_Ultraschallsensor_mit_Motor.ino">Sketch Auto</a></p>
 <p>Alles momentanes Ende unseres Projektes mit dem Arduino stellten wir in den letzten Stunden unser Auto fertig. Der Code hierfür besteht aus zwei Teilen.<br>
 1. Der Auslesung des Ultraschallsensors<br>
@@ -185,6 +185,9 @@ Durch die Neuverkabelung ergibt sich allerdings ein neues Problem. Durch die hö
 <h3>
 <a id="12">12. Das Auto 2.0</a>
 </h3>
+
+<img src="Bilder/IMG_0231.JPG" alt="Bild1" style="width:400px;border:0;">
+
 <p><a href="https://github.com/Stormarnschule12/Arduino-car/blob/master/sketch_Ultraschallsensor_mit_Motor_mit_2_Sensoren.ino">Sketch Auto mit Transistor</a></p>
 <p>
 Um die Leistung der beiden Motoren zu erhöhen haben wir uns überlegt wie wir mehr Spannung ausgeben können.<br>
