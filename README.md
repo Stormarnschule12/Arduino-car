@@ -253,10 +253,10 @@ Da bei der Verwendung eines Transistors der Pin, welchen man über den Arduino a
 Wir haben ein selbstfahrendes Auto entwickelt, dass Hindernissen ausweichen kann.<br>
 Am Unterricht in Informatik hat uns gut gefallen, dass…<br>
 <ul>
-<li>…Wir eine freie Themenwahl hatten und in unserem eigenen Tempo arbeiten konnten </li>
-<li>…Unsere eigenen Zwischenziele setzen konnten und in der Gestaltung unserer Ergebnisse frei waren  </li>
+<li>…wir eine freie Themenwahl hatten und in unserem eigenen Tempo arbeiten konnten </li>
+<li>…unsere eigenen Zwischenziele setzen konnten und in der Gestaltung unserer Ergebnisse frei waren  </li>
 <li>…wir am Ende des Schuljahres ein Projekt abgeben konnten, in dem wir unsere Ziele erreicht haben, mit dem wir zufrieden sind und in dem wir uns selbst verwirklichen konnten.</li>
-<li>Wir neues gelernt haben, von dem wir vorher noch sehr wenig bis gar keine Kenntnisse hatten</li>
+<li>wir neues gelernt haben, von dem wir vorher noch sehr wenig bis gar keine Kenntnisse hatten</li>
 </ul>
 </p>
 <p>
