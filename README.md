@@ -173,6 +173,8 @@ Aus dem Aufbau unseres Autos resultiert, dass das Auto nur in eine Richtung ausw
 <a id="11">11. Das Auto 1.5</a>
 </h3>
 
+<img src="Bilder/IMG_0225.JPG" alt="Bild1" style="width:400px;border:0;">
+
 <p><a href="https://github.com/Stormarnschule12/Arduino-car/blob/master/sketch_Motor_in_Beide_Richtungen_mit_zwei_Ultraschallsensoren.ino">Sketch Auto mit zurücksetzen</a></p>
 <p>
 Um das Problem des Festfahrens zu lösen, wollten wir das Auto, wenn es ein Hindernis erkennt, erst einmal zurücksetzt. Dafür müssen die Motoren umgepolt werden. <br>
